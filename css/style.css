@@ -113,7 +113,7 @@ body {
   position: absolute;
   width: 340px;
   height: 340px;
-  background: url(/img/eu.jpg);
+  background: url(../img/eu.jpg);
   background-size: cover;
   border-radius: 50%;
 }
